@@ -1,0 +1,9 @@
+C:\Users\ASUS\Desktop\AchaoCalculator\huyu001\huyu001\huyu001Tests\bin\Debug\huyu001Tests.dll
+C:\Users\ASUS\Desktop\AchaoCalculator\huyu001\huyu001\huyu001Tests\bin\Debug\huyu001Tests.pdb
+C:\Users\ASUS\Desktop\AchaoCalculator\huyu001\huyu001\huyu001Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\ASUS\Desktop\AchaoCalculator\huyu001\huyu001\huyu001Tests\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\ASUS\Desktop\AchaoCalculator\huyu001\huyu001\huyu001Tests\obj\Debug\huyu001Tests.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\AchaoCalculator\huyu001\huyu001\huyu001Tests\obj\Debug\huyu001Tests.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\AchaoCalculator\huyu001\huyu001\huyu001Tests\obj\Debug\huyu001Tests.csproj.CopyComplete
+C:\Users\ASUS\Desktop\AchaoCalculator\huyu001\huyu001\huyu001Tests\obj\Debug\huyu001Tests.dll
+C:\Users\ASUS\Desktop\AchaoCalculator\huyu001\huyu001\huyu001Tests\obj\Debug\huyu001Tests.pdb

@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\AchaoCalculator\huyu001\huyu001\huyu001\bin\Debug\huyu001.exe.config
+C:\Users\ASUS\Desktop\AchaoCalculator\huyu001\huyu001\huyu001\bin\Debug\huyu001.exe
+C:\Users\ASUS\Desktop\AchaoCalculator\huyu001\huyu001\huyu001\bin\Debug\huyu001.pdb
+C:\Users\ASUS\Desktop\AchaoCalculator\huyu001\huyu001\huyu001\obj\Debug\huyu001.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\AchaoCalculator\huyu001\huyu001\huyu001\obj\Debug\huyu001.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\AchaoCalculator\huyu001\huyu001\huyu001\obj\Debug\huyu001.exe
+C:\Users\ASUS\Desktop\AchaoCalculator\huyu001\huyu001\huyu001\obj\Debug\huyu001.pdb
